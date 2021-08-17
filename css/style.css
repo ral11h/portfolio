@@ -21,7 +21,7 @@ h3{
 
 hr{
   clear: both;
-  border: none;
+  border-bottom: none;
   border-top: 0.2em dashed #558776;
   width: 75%;
   margin: 10em auto 1em auto;
